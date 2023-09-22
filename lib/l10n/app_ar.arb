@@ -1,0 +1,19 @@
+{
+  "app_title": "قائمة المهام",
+  "add_new_task": "إضافة مهمه",
+  "enter_task" : "ادخل المهمة",
+  "enter_discription" : "ادخل الوصف",
+  "select_time" : "تحديد الوقت",
+  "add" : "إضافة",
+  "done" : "مكتمل",
+  "language" : "اللغة",
+  "english" : "الانجليزية",
+  "arabic": "العربية",
+  "mode": "النمط",
+  "dark": "ليلي",
+  "light" : "نهاري",
+  "edit_task" : "تعديل المهمة",
+  "save": "حفظ التغيرات",
+  "setting": "الاعدادات",
+  "task_list": "قائمه المهام"
+}

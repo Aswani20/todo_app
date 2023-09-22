@@ -1,0 +1,19 @@
+{
+  "app_title": "To Do List",
+  "add_new_task": "Add New Task",
+  "enter_task" : "Enter Your Task",
+  "enter_discription" : "Enter Your Discription",
+  "select_time" : "Select Time",
+  "add" : "Add",
+  "done" : "Done!",
+  "language" : "Language",
+  "english" : "English",
+  "arabic": "Arabic",
+  "mode": "Mode",
+  "dark": "Dark",
+  "light" : "Light",
+  "edit_task" : "Edit Task",
+  "save": "Save Changes",
+  "setting": "Setting",
+  "task_list": "Task_List"
+}
