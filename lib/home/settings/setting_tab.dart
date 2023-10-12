@@ -73,11 +73,11 @@ class _SettingsTabState extends State<SettingsTab> {
   }
 
   void showLanguageBottomSheet() {
-    showBottomSheet(context: context, builder: (context)=> LanguageBottomSheet());
+    showModalBottomSheet(context: context, builder: (context)=> LanguageBottomSheet());
   }
 
   void showThemeBottomSheet() {
-    showBottomSheet(context: context, builder: (context)=>ThemeBottomSheet());
+    showModalBottomSheet(context: context, builder: (context)=>ThemeBottomSheet());
   }
 
 
